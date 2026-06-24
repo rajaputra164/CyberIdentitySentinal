@@ -208,8 +208,8 @@ The platform successfully demonstrates:
 
 ## Author
 
-Raja Putra
+Rajaputra Hemanjali
 
-Final Year Major Project
+Final Year Project
 
 Cyber Identity Sentinel – AI-Powered Digital Identity Threat Detection Platform
