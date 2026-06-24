@@ -1,0 +1,3 @@
+from services.network_graph import create_network_graph
+
+create_network_graph()
